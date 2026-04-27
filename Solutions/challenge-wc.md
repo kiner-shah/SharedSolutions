@@ -159,3 +159,4 @@ The shared solutions:
 | 150 | [wc-tool-rust](https://github.com/ihaagrawal/wc-tool-rust) | Rust | [Iha Agrawal](https://github.com/ihaagrawal) 
 | 151 | [mwc](https://github.com/lkdjiin/mwc) | Crystal | [Xavier Nayrac](https://github.com/lkdjiin)
 | 152 | [wccc](https://github.com/VietTungFizzy/Build-Your-Own-wc-Tool) | Ruby | [VietTungFizzy](https://github.com/VietTungFizzy) |
+| 153 | [wcx](https://github.com/sarkar-segfault/wcx) | C | [sarkar-segfault](https://github.com/sarkar-segfault/wcx)
