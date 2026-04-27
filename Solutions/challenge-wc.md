@@ -158,3 +158,4 @@ The shared solutions:
 | 149 | [wc-3-prog-paradigms](https://github.com/atherio-danp/coding-challanges/tree/main/wc-tool) | C# | [Dan Patrascu-Baba](https://github.com/atherio-danp) 
 | 150 | [wc-tool-rust](https://github.com/ihaagrawal/wc-tool-rust) | Rust | [Iha Agrawal](https://github.com/ihaagrawal) 
 | 151 | [mwc](https://github.com/lkdjiin/mwc) | Crystal | [Xavier Nayrac](https://github.com/lkdjiin)
+| 152 | [wccc](https://github.com/VietTungFizzy/Build-Your-Own-wc-Tool) | Ruby | [VietTungFizzy](https://github.com/VietTungFizzy) |
