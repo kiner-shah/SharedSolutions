@@ -155,4 +155,7 @@ The shared solutions:
 | 146 | [cwc](https://github.com/Infinage/cpp-experiments/blob/main/cli/cwc.cpp) | C++ | [Naresh Jagadeesan](https://github.com/Infinage)
 | 147 | [ccwc](https://github.com/dphogit/ccwc/tree/main) | C | [dphogit](https://github.com/dphogit)
 | 148 | [challenge-wc](https://github.com/blissful-coder/CodingChallenges/tree/main/challenge-wc) | C++ | [Anurag Negi](https://github.com/blissful-coder)
-| 149 | [wccc](https://github.com/VietTungFizzy/Build-Your-Own-wc-Tool) | Ruby | [VietTungFizzy](https://github.com/VietTungFizzy) |
+| 149 | [wc-3-prog-paradigms](https://github.com/atherio-danp/coding-challanges/tree/main/wc-tool) | C# | [Dan Patrascu-Baba](https://github.com/atherio-danp) 
+| 150 | [wc-tool-rust](https://github.com/ihaagrawal/wc-tool-rust) | Rust | [Iha Agrawal](https://github.com/ihaagrawal) 
+| 151 | [mwc](https://github.com/lkdjiin/mwc) | Crystal | [Xavier Nayrac](https://github.com/lkdjiin)
+| 152 | [wccc](https://github.com/VietTungFizzy/Build-Your-Own-wc-Tool) | Ruby | [VietTungFizzy](https://github.com/VietTungFizzy) |
