@@ -38,3 +38,4 @@ The shared solutions:
 | 30 | [challenge-huffman](https://github.com/blissful-coder/CodingChallenges/tree/main/challenge-huffman) | C++ | [Anurag Negi](https://github.com/blissful-coder) |
 | 31 | [huffman-encoder-c](https://github.com/yannvanhalewyn/coding-challenges/tree/main/huffman-encoder-c) | C | [Yann Vanhalewyn](https://github.com/yannvanhalewyn) |
 | 32 | [huffman-encoder-rust](https://github.com/yannvanhalewyn/coding-challenges/tree/main/huffman-encoder-rust) | Rust | [Yann Vanhalewyn](https://github.com/yannvanhalewyn) |
+| 33 | [cc-compression-tool-cpp](https://github.com/CagesThrottleUs/cc-compression-tool-cpp) | C++ | [mrntry](https://github.com/CagesThrottleUs) |
