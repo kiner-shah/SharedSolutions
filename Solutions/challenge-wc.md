@@ -147,3 +147,14 @@ The shared solutions:
 | 138 | [ccwc](https://github.com/jglara/ccwc) | C++ | [jglara](https://github.com/jglara) |
 | 139 | [Write you own wc tool](https://github.com/siddharth007krishnan/word-count) | Javascript | [siddharth007krishnan](https://github.com/siddharth007krishnan) |
 | 140 | [WordCount](https://github.com/nazaralwi/CodingChallengesSolution/tree/master/WordCount) | Swift | [nazaralwi](https://github.com/nazaralwi) |
+| 141 | [Make your own wc](https://github.com/VedantGonnade/coding-challenge/tree/main/Coding%20challenges/Build_your_own_wc) | Typescript | [Vedant Gonnade](https://github.com/VedantGonnade) |
+| 142 | [WordCount for Python](https://github.com/vidhi1976/ccwc) | Python | [vidhi1976](https://github.com/vidhi1976) |
+| 143 | [abenwc](https://github.com/abeni-al7/aben-wc) | Go | [Abeni](https://github.com/abeni-al7) |
+| 144 | [ccwc](https://github.com/Abdullah104/ccwc) | Java | [Abdullah104](https://github.com/Abdullah104/) |
+| 145 | [wcGo](https://github.com/brickster241/wc-Go) | Go | [Ashish Verma](https://github.com/brickster241)
+| 146 | [cwc](https://github.com/Infinage/cpp-experiments/blob/main/cli/cwc.cpp) | C++ | [Naresh Jagadeesan](https://github.com/Infinage)
+| 147 | [ccwc](https://github.com/dphogit/ccwc/tree/main) | C | [dphogit](https://github.com/dphogit)
+| 148 | [challenge-wc](https://github.com/blissful-coder/CodingChallenges/tree/main/challenge-wc) | C++ | [Anurag Negi](https://github.com/blissful-coder)
+| 149 | [wc-3-prog-paradigms](https://github.com/atherio-danp/coding-challanges/tree/main/wc-tool) | C# | [Dan Patrascu-Baba](https://github.com/atherio-danp) 
+| 150 | [wc-tool-rust](https://github.com/ihaagrawal/wc-tool-rust) | Rust | [Iha Agrawal](https://github.com/ihaagrawal) 
+| 151 | [mwc](https://github.com/lkdjiin/mwc) | Crystal | [Xavier Nayrac](https://github.com/lkdjiin)
